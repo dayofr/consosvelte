@@ -19,7 +19,7 @@
     "@vitest/coverage-c8": "^0.30.0",
     "eslint": "^8.36.0",
     "eslint-plugin-svelte3": "^4.0.0",
-    "prettier": "2.8.7",
+    "prettier": "2.8.8",
     "svelte": "^3.55.1",
     "svelte-check": "^2.10.3",
     "tslib": "^2.5.0",
